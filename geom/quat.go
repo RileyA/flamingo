@@ -1,4 +1,4 @@
-package math
+package geom
 
 // Simple quaternion type.
 type Quat [4]float32

@@ -1,4 +1,4 @@
-package math
+package geom
 
 // 2-dimensional vector.
 type Vec2 [2]float32

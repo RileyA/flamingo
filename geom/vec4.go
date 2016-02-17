@@ -1,4 +1,4 @@
-package math
+package geom
 
 // 4-dimensional vector.
 type Vec4 [4]float32
